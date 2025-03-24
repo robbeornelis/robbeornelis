@@ -2,6 +2,8 @@
 I am a student at Artevelde Hogeschool Gent (graduate degree) and I'm mostly interested in front-end development but I'm also interested in back-end development.
 
 I'm fluent in dutch and english (and I also understand basic french).
+
+I'm alright with HTML, CSS and Javascript but I still have lots to learn about those languages.
 <!--
 **robbeornelis/robbeornelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
