@@ -1,5 +1,7 @@
 ## Hi there 👋
+I am a student at Artevelde Hogeschool Gent (graduate degree) and I'm mostly interested in front-end development but I'm also interested in back-end development.
 
+I'm fluent in dutch and english (and I also understand basic french).
 <!--
 **robbeornelis/robbeornelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
